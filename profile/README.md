@@ -25,6 +25,7 @@ The payment service operates under the following conditions:
 - **Thorough Testing**: The application undergoes comprehensive testing to ensure robustness and reliability. The testing code is maintained in a separate Git repository.
 - **Failure Scenario Handling**: Clear instructions and mechanisms are provided for handling potential failure scenarios during order processing across services.
 - **OpenTelemetry Integration**: OpenTelemetry is used to collect logs across all services, facilitating effective monitoring and debugging.
+- **Automated Test Suite**: Has automated testing, using pytest, testing done within 1 command (check out testing guide down below)
 
 &nbsp;
 
